@@ -33,7 +33,7 @@ To get started with the dashboard, simply click on the link above. Ensure you ha
 
 ## Contact
 
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or support, please contact [eramit144@gmail.com](mailto:eramit144@gmail.com).
 
 ---
 
