@@ -1,7 +1,8 @@
 # Super Store Sales Dashboard
 
 This project is a comprehensive sales dashboard for Super Stores, created using Power BI tools. The dashboard provides a detailed analysis of sales performance, allowing for better decision-making and strategic planning.
-
+# Objective
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis to provide valuable insights.
 ## Features
 
 - **Interactive Visualizations**: Easily explore sales data through dynamic charts, graphs, and tables.
